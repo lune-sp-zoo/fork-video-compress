@@ -50,6 +50,12 @@ Now in your `Dart` code, you can use:
 import 'package:video_compress/video_compress.dart';
 ````
 
+### iOS
+
+The iOS plugin supports Swift Package Manager as well as CocoaPods. Flutter uses
+the package manager configured for your iOS project; no additional setup is
+required for this plugin.
+
 # How to use
 
 ### Imports
@@ -161,4 +167,3 @@ Contributions are always welcome!
 
 Inspired by the flutter_ffmpeg library.
 https://github.com/rurico/flutter_video_compress
-
