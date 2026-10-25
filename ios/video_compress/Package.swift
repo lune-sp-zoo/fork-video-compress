@@ -9,7 +9,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "video_compress",
+            name: "video-compress",
             targets: ["video_compress"]
         )
     ],
